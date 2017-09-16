@@ -23,9 +23,13 @@
 }
 
 ::selection {
-    background: #16a085;
-    color: #a4003a;
+    background: rgb(244, 93, 93);
+    color: white;
     text-shadow: none;
+}
+
+.cursor {
+  color: rgb(244, 93, 93);
 }
 
 /*
